@@ -9,3 +9,8 @@ Each SQL file addresses a specific business question.
 Each SQL file answers a specific business question related to
 customer engagement, revenue contribution, or monetization efficiency.
 Insights derived from these queries are summarized in the analysis.
+
+## Dataset Note
+The dataset used for this analysis is not publicly shared.
+SQL scripts are provided to demonstrate analytical logic
+and business problem-solving approach.
